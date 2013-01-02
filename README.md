@@ -3,9 +3,9 @@ SpotifyHack
 
 Skips to next song one second before song ends to reduce number of ads. Mutes remaining ads.
 
-This assumes you are on OS X and have node installed. So as such this is a beta for developers, An applescript version, one that can just be downloaded and run, will be available soon.
+[node](http://nodejs.org/) installed. So as such this is a beta for developers, An applescript version, one that can just be downloaded and run, will be available soon.
 
-If you want updates on the project follow me here or on twitter (@_niall)
+If you want updates on the project follow me here or on [twitter](http://twitter.com/_niall)
 
 How to use
 ==========
@@ -21,3 +21,5 @@ How to use
 	node app.js
 ```
 
+
+MIT License, WIP so may not work 100%
