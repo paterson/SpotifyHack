@@ -24,7 +24,7 @@ function init() {
 				oldvolume = volume
 				check(track.duration)
 			}
-			})
+		})
 	})
 }
 function check(duration) {
