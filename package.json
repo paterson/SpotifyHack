@@ -1,0 +1,38 @@
+{
+  "name": "SpotifyHack",
+  "version": "0.0.1",
+  "description": "Skips to next song one second before song ends to reduce number of ads. Mutes remaining ads.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paterson/SpotifyHack.git"
+  },
+  "keywords": [
+    "Spotify",
+    "skip",
+    "mute"
+  ],
+  "author": [
+    {
+      "name": "Niall Paterson",
+      "email": "npaters@tcd.ie",
+      "url": "http://niallpaterson.com"
+    },
+    {
+      "name": "Charlie Hield",
+      "email": "charles.hield@gamil.com",
+      "url": "http://charliehield.com/"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paterson/SpotifyHack/issues"
+  },
+  "dependencies": {
+    "async": "~0.7.0",
+    "spotify-node-applescript": "~0.2.1"
+  }
+}
