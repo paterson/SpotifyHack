@@ -10,16 +10,20 @@ If you want updates on the project follow me here or on [twitter](http://twitter
 How to use
 ==========
 
-```
-	npm install async
-```
-```
-	npm install spotify-node-applescript
-```
+Clone the repo and change into that directory.
 
-``` 
-	node app.js
+```bash
+git clone https://github.com/paterson/SpotifyHack.git && cd SpotifyHack
 ```
+Install [npm](https://www.npmjs.org/) modules.
 
+```bash
+npm install
+```
+Run the node app
+
+```bash
+node app.js
+```
 
 MIT License, WIP so may not work 100%
